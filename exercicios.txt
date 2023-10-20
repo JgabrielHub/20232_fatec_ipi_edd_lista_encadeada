@@ -1,0 +1,5 @@
+1. Construir uma função para resolver cada uma das tarefas a seguir:
+a) Contar o número de nós na lista.
+b) Encontrar o maior elemento na lista.
+c) Remover o menor elemento da lista.
+d) A partir de duas listas de entrada, criar uma lista que mescla as duas entradas.
